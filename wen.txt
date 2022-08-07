@@ -3,4 +3,4 @@ HEH branch was here
 Sten branch was here
 Struer branch was here
 Aarhus branch was here
-Master
+Master in struer
